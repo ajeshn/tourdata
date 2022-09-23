@@ -7,31 +7,8 @@
       "image":
         "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/Perfect%20romantic%20beach%20escapade.jpg",
       "price": 25000
-    },
-    {
-      "id": 2,
-      "name": "A Relaxing holiday to Kerala (Honeymoon Special)",
-      "info": "Visiting the tourist spots and indulging in adventure sports in Cochin and Neelakurinji flowers and green vegetation in Munnar .You will also like Bird watching, elephant riding, boating, and plantation tours in Thekkady and Exploring the backwaters and houseboat stays in Alleppey .",
-      "image":
-        "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
-      "price": 25000
-    },
-    {
-      "id": 2,
-      "name": "A Relaxing holiday to Kerala (Honeymoon Special)",
-      "info": "Visiting the tourist spots and indulging in adventure sports in Cochin and Neelakurinji flowers and green vegetation in Munnar .You will also like Bird watching, elephant riding, boating, and plantation tours in Thekkady and Exploring the backwaters and houseboat stays in Alleppey .",
-      "image":
-        "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
-      "price": 30000
-    },
-    {
-      "id": 3,
-      "name": "Jewels of Kerala",
-      "info": "Spend enthralling time strolling in the alluring Rose Garden, serene Alappuzha & the majestic Mullakkal Rajarajeshwari Temple.",
-      "image":
-        "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1369/tea-plantation-hills.jpg",
-      "price": 30000
     }
+
   ]
 
 }
